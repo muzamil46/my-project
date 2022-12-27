@@ -12,7 +12,7 @@ on:
 jobs:
   build-java:
 
-    runs-on: ubuntu-latest
+    runs-on: macOs-runnner
     
     steps:
     - uses: actions/checkout@v2
